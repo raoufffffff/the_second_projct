@@ -45,6 +45,53 @@ let listOf = [
         top: "x",
         id: "6",
         sex: "fammel"
+    },
+{
+        name: "some think",
+        img: "./image/01.webp",
+        prix: "20",
+        top: "x",
+        id: "1",
+        sex: "fammel"
+    },
+    {
+        name: "some think",
+        img: "./image/02.webp",
+        prix: "10",
+        top: "",
+        id: "2",
+        sex: "fammel"
+    },
+    {
+        name: "some think",
+        img: "./image/03.webp",
+        prix: "25",
+        top: "x",
+        id: "3",
+        sex: "fammel"
+    },
+    {
+        name: "some think",
+        img: "./image/04.webp",
+        prix: "20",
+        top: "",
+        id: "4",
+        sex: "fammel"
+    }, {
+        name: "some think",
+        img: "./image/05.webp",
+        prix: "30",
+        top: "x",
+        id: "5",
+        sex: "fammel"
+    },
+    {
+        name: "arsonal",
+        img: "./image/zela.jpg",
+        prix: "1003",
+        top: "x",
+        id: "6",
+        sex: "fammel"
     }
 ]
 
